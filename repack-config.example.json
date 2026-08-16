@@ -15,5 +15,5 @@
     // Base output APK filename (uses input APK stem if empty)
     "output_name": "",
     // Whether to strip libksud.so
-    "strip": false
+    "strip": true
 }
